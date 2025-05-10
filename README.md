@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Patidar</h1>
-<h3 align="center" style="font-weight: 300;">🚀 Student at Newton School of Technology | Passionate about Web Development & Python</h3>
+<h3 align="center" style="font-weight: 300;">🚀 Student at Newton School of Technology | Passionate about Web Development & DSA</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/utkarsh-patidar-485347335/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>
 
@@ -38,3 +38,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh12072007&theme=default&hide_border=false" alt="GitHub Streak"/>
 </p>
+
