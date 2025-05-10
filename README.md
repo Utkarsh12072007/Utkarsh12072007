@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Patidar</h1>
-<h3 align="center">🚀 Student at Newton School of Technology | Passionate about Web Development & DSA</h3>
+<h3 align="center" style="font-weight: 300;">🚀 Student at Newton School of Technology | Passionate about Web Development & Python</h3>
 
 ---
 
@@ -20,6 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
 ---
@@ -27,7 +28,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh12072007&show_icons=true&theme=radical" alt="Utkarsh's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh12072007&show_icons=true&theme=default" alt="Utkarsh's GitHub stats"/>
 </p>
 
 ---
@@ -35,5 +36,5 @@
 ### 🔥 GitHub Streak:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh12072007&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh12072007&theme=default&hide_border=false" alt="GitHub Streak"/>
 </p>
