@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/utkarsh-patidar-485347335/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" />
+    <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/linkedin-dark-theme.jpg" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>
 
