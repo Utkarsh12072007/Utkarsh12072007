@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Patidar</h1>
-<h3 align="center" style="font-weight: 300;">🚀 Student at Newton School of Technology | Passionate about Web Development & DSA</h3>
+<h3 align="center" style="font-weight: 300;">Passionate about Web Development & DSA</h3>
 
 ---
 
