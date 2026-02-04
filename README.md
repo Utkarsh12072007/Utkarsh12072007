@@ -7,37 +7,34 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/utkarsh-patidar-485347335/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Utkarsh12072007" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-         alt="GitHub" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
+         alt="GitHub" width="40" height="40" style="filter: invert(0);" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:patidarutkarsh183@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
-         alt="Email" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maildotru.svg" 
+         alt="Email" width="40" height="40" style="filter: invert(45%) sepia(90%) saturate(1500%) hue-rotate(180deg);" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/UtkarshPatidar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
-         alt="LeetCode" width="40" height="40" />
+  <a href="https://leetcode.com/u/UtkarshPatidar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" 
+         alt="LeetCode" width="40" height="40" style="filter: invert(70%) sepia(100%) saturate(500%) hue-rotate(10deg);" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/Utkarsh_Patidar" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg"
-         alt="Codeforces" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" 
+         alt="Codeforces" width="40" height="40" style="filter: invert(30%) sepia(100%) saturate(2000%) hue-rotate(340deg);" />
   </a>
 </p>
-
-
-
 ---
 
 ### 💻 Languages and Tools:
