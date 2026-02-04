@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Patidar</h1>
 <h3 align="center" style="font-weight: 300;">Passionate about Web Development & Competitive Programming</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rank-Pupil-blue?style=flat-square&logo=codeforces" alt="Codeforces Rank">
-  <img src="https://img.shields.io/badge/Rating-1203-brightgreen?style=flat-square&logo=codeforces" alt="Codeforces Rating">
-</p>
-
----
 
 ### 🌐 Connect with me:
 
@@ -38,7 +32,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,cpp,mongodb,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,cpp" />
   </a>
 </p>
 
