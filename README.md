@@ -7,30 +7,34 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/utkarsh-patidar-485347335/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="40" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
 
   <a href="https://github.com/Utkarsh12072007" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
-         alt="GitHub" width="40" height="40" style="filter: invert(0);" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+         alt="GitHub" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
+
+  <a href="mailto:patidarutkarsh183@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Email" height="40" />
+  </a>
+  &nbsp;
 
   <a href="https://leetcode.com/u/UtkarshPatidar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" 
-         alt="LeetCode" width="40" height="40" style="filter: invert(70%) sepia(100%) saturate(500%) hue-rotate(10deg);" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" 
+         alt="LeetCode" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
 
   <a href="https://codeforces.com/profile/Utkarsh_Patidar" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" 
-         alt="Codeforces" width="40" height="40" style="filter: invert(30%) sepia(100%) saturate(2000%) hue-rotate(340deg);" />
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" 
+         alt="Codeforces" height="40" />
   </a>
 </p>
----
-
 ### 💻 Languages and Tools:
 
 <p align="left">
