@@ -7,25 +7,35 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/utkarsh-patidar-485347335/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Utkarsh12072007" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+         alt="GitHub" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:patidarutkarsh183@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
+         alt="Email" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/UtkarshPatidar/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="LeetCode" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
+         alt="LeetCode" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/Utkarsh_Patidar" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968238.png" alt="Codeforces" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg"
+         alt="Codeforces" width="40" height="40" />
   </a>
 </p>
+
 
 
 ---
