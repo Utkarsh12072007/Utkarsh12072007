@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Patidar</h1>
-<h3 align="center" style="font-weight: 300;">Passionate about Web Development & DSA</h3>
+<h3 align="center" style="font-weight: 300;">Passionate about Web Development & CP</h3>
 
 ---
 
@@ -19,6 +19,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
@@ -32,10 +34,4 @@
 </p>
 
 ---
-
-### 🔥 GitHub Streak:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh12072007&theme=default&hide_border=false" alt="GitHub Streak"/>
-</p>
 
